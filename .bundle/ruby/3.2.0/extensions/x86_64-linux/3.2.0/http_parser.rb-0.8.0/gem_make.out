@@ -1,0 +1,19 @@
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240826-3981-m82yn1 sitelibdir\=./.gem.20240826-3981-m82yn1 clean
+
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240826-3981-m82yn1 sitelibdir\=./.gem.20240826-3981-m82yn1
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240826-3981-m82yn1 sitelibdir\=./.gem.20240826-3981-m82yn1 install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240826-3981-m82yn1
+
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240826-3981-m82yn1 sitelibdir\=./.gem.20240826-3981-m82yn1 clean

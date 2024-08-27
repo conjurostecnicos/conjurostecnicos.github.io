@@ -1,0 +1,20 @@
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+/usr/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240826-3981-akal7i sitelibdir\=./.gem.20240826-3981-akal7i clean
+
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240826-3981-akal7i sitelibdir\=./.gem.20240826-3981-akal7i
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240826-3981-akal7i sitelibdir\=./.gem.20240826-3981-akal7i install
+/usr/bin/install -c -m 0755 strscan.so ./.gem.20240826-3981-akal7i
+
+current directory: /home/osokin/Blog/janumann.github.io/.bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240826-3981-akal7i sitelibdir\=./.gem.20240826-3981-akal7i clean
