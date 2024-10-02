@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: el blog de felix 
+title: Conjuros tecnicos 
 email: felixjose89@protonmail.com
 description: Interfaces que buscan difundir mis ideas sobre teknología y kultura  - lo que sea que signifique para ustedes. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: josFp2
-github_username:  janumann
+github_username: conjurostecnicos 
 
 # Build settings
 theme: minima 
