@@ -6,15 +6,6 @@ permalink: /about/
 
 ![](assets/2024-09-20-103504.jpg)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Mi nombre es félix, y bienvenidos al blog de conjuros tecnicos. Conjuros tecnicos es un colectivo que, inspirado en la filosofía y en la práctica de las tecnologías digitales, ofrece un espacio para generar alianzas en contra de la fragmentación social provocada por el ejercicio de las construcciones tecnicas que nos expulsa del mundo y de la realidad.
 
 
-[jekyll-organization]: https://github.com/jekyll

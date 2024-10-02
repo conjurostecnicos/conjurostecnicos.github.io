@@ -12,6 +12,3 @@ layout: home
 <p style='text-align: right;'>
 Derrida, J. Espectros de Marx. 2012:55
 </p>
-
-Conjuros técnicos emerge como un llamado a la conspiración desde la alianza con la tecnología digital.
-
