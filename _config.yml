@@ -20,14 +20,14 @@
 
 title: Conjuros tecnicos 
 email: felixjose89@protonmail.com
-description: Interfaces que buscan difundir mis ideas sobre teknología y kultura  - lo que sea que signifique para ustedes. 
+description: experiencias mundanas con el software libre, el internet y las ciencias sociales. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://conjurostecnicos.github.io"
 twitter_username: josFp2
 github_username: conjurostecnicos 
 
 # Build settings
-theme: minima 
+theme: minima
 plugins:
   - jekyll-feed
 
